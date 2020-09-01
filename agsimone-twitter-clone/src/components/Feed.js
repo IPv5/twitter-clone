@@ -11,17 +11,9 @@ function Feed() {
                 <h2>Home</h2>
             </div>
 
-
-            {/* TweetBox */}
             <TweetBox />
 
-            {/* Post */}
             <Post />
-            {/* Post */}
-            {/* Post */}
-            {/* Post */}
-
-
         </div>
     )
 }
